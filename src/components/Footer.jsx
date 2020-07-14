@@ -4,10 +4,10 @@ const footer = () => {
     return(
         <React.Fragment>
             <div className=" shop-footer text-center py-3">
-                made with Love by
-                <a target={'blank'} href={'http://collinsnick.com/'}> Collins nixon</a>
-                .This project is open source, visit
-                <a target={'blank'} href={'https://github.com/collinsNick/React-redux-shopping-web-app'}> the repo</a>
+                Developed by
+                <a target={'blank'} href={'http://www.unaisali.com/'}> Unais Ali</a>
+                .Free Code Visit
+                <a target={'blank'} href={'https://github.com/collinsNick/React-redux-shopping-web-app'}> E Store</a>
 
             </div>
         </React.Fragment>

@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 const mainMenu = (props) => {
     return (
         <nav className="navbar navbar-expand-md navbar-light bg-light">
-            <span className="navbar-brand">DUKA</span>
+            <span className="navbar-brand">Unais E Store</span>
             <button
                 className="navbar-toggler"
                 onClick={props.toggleSideBar}>
