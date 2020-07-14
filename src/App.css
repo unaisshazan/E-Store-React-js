@@ -13,7 +13,7 @@
 }
 
 .text-success {
-    color: #F17E0A !important;
+    color: peru !important;
 }
 
 input.shop-input-error{
@@ -47,17 +47,17 @@ nav {
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-brand:hover {
-    color: #E40046;
+    color: peru;
     font-weight: bold;
 }
 
 .badge-light {
     color: #FFF;
-    background-color: #E40046;
+    background-color: peru;
 }
 
 .nav-link.active .badge-light {
-    color: #E40046;
+    color: peru;
     background-color: #FFF;
 }
 
@@ -66,18 +66,18 @@ nav {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #E40046;
+    color: peru;
 }
 
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link {
-    background-color: #E40046;
+    background-color: peru;
     color: #FFF;
 }
 
 .bg-light {
-    background-color: #FFF !important;
+    background-color: #000 !important;
 }
 
 /* ------------- shop left column --------------*/
@@ -87,7 +87,7 @@ nav {
 }
 
 .shop-left-column h5 {
-    color: #F17E0A;
+    color: peru;
     font-weight: 600;
 }
 
@@ -97,7 +97,7 @@ nav {
 }
 
 .shop-text-red {
-    color: #E40046;
+    color: peru;
 }
 
 /* ------------- modal --------------*/
@@ -135,7 +135,7 @@ nav {
 
 .shop-card .shop-card-discount, .shop-card .shop-card-sale {
     color: #fff;
-    background-color: #E40046;
+    background-color: peru;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
@@ -168,7 +168,7 @@ nav {
 }
 
 .shop-card .shop-card-title a:hover, .shop-card:hover .shop-card-title a {
-    color: #E40046;
+    color: peru;
     text-decoration: none;
 }
 
@@ -199,9 +199,9 @@ nav {
 .shop-btn-primary.active {
     color: #FFF;
     font-size: 13px;
-    background-color: #F17E0A;
+    background-color: peru;
     font-weight: 600;
-    border-color: #F17E0A;
+    border-color: peru;
 }
 
 /*cart and checkout buttons*/
@@ -215,9 +215,9 @@ nav {
 .shop-btn-secondary.active {
     color: #FFF;
     font-size: 1rem;
-    background-color: #F17E0A;
+    background-color: peru;
     font-weight: 600;
-    border-color: #F17E0A;
+    border-color: peru;
 }
 
 /* ------------- shop cart --------------*/
@@ -231,7 +231,7 @@ nav {
 
 .shop-empty-cart a,
 .shop-empty-cart a .hover {
-    color: #F17E0A;
+    color: peru;
     text-decoration: none;
 }
 
@@ -248,8 +248,8 @@ nav {
 .shop-btn-warning:active:focus,
 .shop-btn-warning.active {
     background-color: transparent;
-    border-color: #E40046;
-    color: #E40046;
+    border-color: peru;
+    color: peru;
 }
 
 .shop-btn-outline,
@@ -298,12 +298,12 @@ nav {
 
 .shop-cart-product-details .badge-warning {
     color: #FFF;
-    background-color: #E40046;
+    background-color: peru;
 }
 
 .shop-cart-product-details .badge-success {
     color: #FFF;
-    background-color: #F17E0A;
+    background-color: peru;
 }
 
 /* ------------- shop footer --------------*/
@@ -360,11 +360,11 @@ nav {
 }
 
 .nav .nav-item .nav-link:hover {
-    color: #E40046;
+    color: peru;
 }
 
 .nav .nav-item .nav-link.active {
-    background-color: #E40046;
+    background-color: peru;
     color: #FFFFFF;
 }
 
@@ -382,7 +382,7 @@ nav {
 /* ------------- checkout page --------------*/
 .badge-secondary {
     color: #fff;
-    background-color: #F17E0A;
+    background-color: peru;
 }
 
 .shop-checkout-image {
@@ -403,7 +403,7 @@ nav {
     margin-top: .2rem;
     margin-bottom: 0;
     font-size: .9rem;
-    color: #F17E0A;
+    color: peru;
     font-weight: 600;
 }
 
@@ -428,7 +428,7 @@ nav {
 }
 
 .shop-checkout-total .shop-total {
-    color: #F17E0A;
+    color: peru;
 }
 
 .shop-form ul {
