@@ -38,7 +38,7 @@ const initialState = {
     // exchange rates can be got from any api source
     exchangeRates: {
         "base": "PKR",
-        "date": "2019-01-29",
+        "date": "2020-07-14",
         "rates": {
             "RS": 1,
             "USD": 0.0060,
