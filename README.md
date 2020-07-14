@@ -1,27 +1,9 @@
-# react.js shopping cart
+## React-Redux Ecommerce web application
+this is a sample ecommerce web app made using react, redux and react router.
 
-example of shopping cart implemented in react.js and redux.js
+Live demo can be found at [https://safe-brook-53624.herokuapp.com/](https://safe-brook-53624.herokuapp.com/).
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
+## Build Setup
 
-## getting started
-
-install dependencies and start local dev server
-
-```sh
-npm install
-npm start
-```
-
-## details
-- build with [create react app](https://github.com/facebookincubator/create-react-app). Check their page for more details.
-- this example is using redux.js for application state management, to learn more about it I recommend [this tutorial](https://egghead.io/courses/getting-started-with-redux).
-- you can look under the hood directly from your browser using [redux devtools](https://github.com/zalmoxisus/redux-devtools-extension). Install extension for your browser, open demo page (link above) and see how app state changes when you interact with it.
-- if you wonder why reducers, actions and selectors are all in one file inside folder called `ducks`, [read more here](https://github.com/erikras/ducks-modular-redux).
-
-## TODO
-- add reducers and selectors unit tests
-
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
+1. Run `npm install` in root directory, to install all required dependencies.
+2. Use `npm start` to start the application on you machin
