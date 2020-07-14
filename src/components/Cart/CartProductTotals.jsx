@@ -25,8 +25,7 @@ const cartProductTotals = (props) => {
             <hr/>
             <div className="row">
                 <div className="col-6 col-sm-4 offset-sm-5 text-left shop-cart-amounts">
-                    VAT
-                </div>
+                    Voucher                </div>
                 <div className="col-6 col-sm-3 text-right shop-cart-amounts">
                     <span style={{textTransform:'lowercase'}}>{currencyName}</span>{vat.toLocaleString()}
                 </div>

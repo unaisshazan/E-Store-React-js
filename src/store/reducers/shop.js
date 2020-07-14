@@ -34,14 +34,14 @@ const initialState = {
     modalMessage: null,
     showSideNavigation: false,
     // used currency should load with the default currency name and rate
-    usedCurrency: {"KES": 1,"symbol":"Ksh "},
+    usedCurrency: {"PKR": 1,"symbol":"RS "},
     // exchange rates can be got from any api source
     exchangeRates: {
-        "base": "KES",
+        "base": "PKR",
         "date": "2019-01-29",
         "rates": {
-            "KES": 1,
-            "USD": 0.0099,
+            "RS": 1,
+            "USD": 0.0060,
             "GBP": 0.0075,
             "EUR": 0.0087,
             "TZS": 22.92,
@@ -52,7 +52,7 @@ const initialState = {
     },
     // overkill but doing it for fun
     currencySymbols: {
-        "KES": 'Ksh ',
+        "RS": 'Rs',
         "USD": '$',
         "GBP": '£',
         "EUR": '€',
