@@ -7,11 +7,11 @@ const initialState = {
     orderSuccess: false,
     promoCode: [
         {
-            code: 'TENPERCENT',
+            code: 'NEDSTUDENT',
             percentage: 10
         },
         {
-            code: 'FIVEPERCENT',
+            code: 'COVID19',
             percentage: 5
         }
     ],
