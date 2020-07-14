@@ -7,7 +7,7 @@ const footer = () => {
                 Developed by
                 <a target={'blank'} href={'http://www.unaisali.com/'}> Unais Ali</a>
                 .Free Code Visit
-                <a target={'blank'} href={'https://github.com/collinsNick/React-redux-shopping-web-app'}> E Store</a>
+                <a target={'blank'} href={'https://github.com/unaisshazan/E-Store-React-js.git'}> E Store</a>
 
             </div>
         </React.Fragment>
